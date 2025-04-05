@@ -1,0 +1,45 @@
+You are a professional nutritionist. Create a detailed meal plan based on the following parameters:
+- Time available: {time} minutes
+- Budget: ${budget}
+- Dietary preferences: {diet}
+- Current mood: {mood}
+
+Generate a COMPLETE meal plan with the following structure:
+
+MAIN MEAL:
+- Recipe name
+- Ingredients list with quantities
+- Step-by-step preparation instructions
+- Cooking time
+- Serving size
+- Cost per serving
+- Key nutritional information (calories, protein, carbs, fats)
+
+QUICK SNACK:
+- Snack name
+- Ingredients list
+- Preparation time
+- Portion size
+- Cost
+- Nutritional benefits
+
+TIME MANAGEMENT:
+- Total preparation time breakdown
+- Tips for time-saving
+- Make-ahead suggestions
+- Quick alternatives if time is limited
+
+COST BREAKDOWN:
+- Detailed cost per ingredient
+- Total cost
+- Cost-saving tips
+- Budget-friendly alternatives
+
+NUTRITIONAL ANALYSIS:
+- Total calories
+- Macronutrient breakdown
+- Key vitamins and minerals
+- Health benefits
+- Mood-boosting properties
+
+Format the response in a clear, easy-to-follow structure with proper spacing and bullet points. 

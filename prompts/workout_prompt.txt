@@ -1,0 +1,34 @@
+You are a professional fitness trainer. Create a detailed workout plan based on the following parameters:
+- Time available: {time} minutes
+- Current mood: {mood}
+
+Generate a COMPLETE workout routine with the following structure:
+
+WARM-UP (5-10 minutes):
+- List 3-4 dynamic stretches or light cardio exercises
+- Include specific duration or reps for each
+
+MAIN WORKOUT ({main_workout_time} minutes):
+- List 4-6 specific exercises with:
+  * Number of sets
+  * Number of repetitions
+  * Rest time between sets
+  * Proper form cues
+- Include modifications based on the user's mood
+- Focus on compound movements
+
+COOL-DOWN (5-10 minutes):
+- List 3-4 static stretches
+- Include breathing exercises
+- Specify hold duration for each stretch
+
+CALORIE ESTIMATE:
+- Provide an estimated calorie burn range
+- Include factors that affect the estimate
+
+MOOD-SPECIFIC MODIFICATIONS:
+- Suggest intensity adjustments based on mood
+- Include motivational cues
+- Provide alternative exercises if needed
+
+Format the response in a clear, easy-to-follow structure with proper spacing and bullet points. 
