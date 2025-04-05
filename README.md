@@ -1,5 +1,7 @@
 # FitFusion-AI-Hackathon
 
+![image]([https://github.com/KritiCParikh/Applied-Machine-Learning/blob/main/Graphs/feat_imp-PhotoRoom.png-PhotoRoom.png](https://github.com/KritiCParikh/FitFusion-AI-Hackathon/blob/main/v1-Hackathon.png))
+
 ## 🧩 Problem Statement
 Modern individuals face decision fatigue around maintaining health—balancing diet, workouts, and emotional well-being. The challenge is creating a unified, personalized wellness assistant that tailors meal and fitness plans and understands user emotions to provide holistic care all in real time. FitFusion AI is an interactive AI-powered web app that generates personalized **meal plans**, **workout routines**, and **emotional insights** based on how you're feeling, how much time you have, and your dietary preferences. It also features a real-time chatbot powered by the **Tavily API** to offer live web results for wellness queries.
 
