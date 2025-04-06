@@ -69,13 +69,13 @@ It also features a built-in chatbot powered by the **Tavily API**, offering live
 
 ## 🌱 Future Enhancements
 
-### 🌥️ Emotion Garden: Planned Enhancements
+### 🌥️ Emotion Garden:
 - Planning to track **emotion trends over time**.
 - If a user’s emotional responses frequently trend negative (e.g., sadness or anxiety), the system will:
   - Prompt them gently: *“Would you like to talk to a no-judgment support bot?”*
   - Offer an opt-in, emotionally safe **chat feature for support**.
 
-### 🤝 No-Judgment Chat Bot (Future Feature)
+### 🤝 No-Judgment Chat Bot
 - For users expressing **sadness or distress**, a companion chat interface will ask:  
   > “Would you like to talk about how you’re feeling?”
 - This aims to create a **compassionate, stigma-free space** for emotional expression.
@@ -88,7 +88,7 @@ It also features a built-in chatbot powered by the **Tavily API**, offering live
   - Quick answers to wellness-related questions
 - Helps users connect with **real-world wellness resources** based on their input.
 
-### 🖼️ Image Generation (Planned Feature)
+### 🖼️ Image Generation
 - Exploring image generation for:
   - Visualizing **custom meal bowls** based on generated recipes
   - Adding a creative layer so users can “see” their personalized meal plan
